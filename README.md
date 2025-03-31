@@ -1,4 +1,4 @@
-# ClinicServiceApp
+angular-service
 #
 
 AngluarJS, SASS, bootstrap
